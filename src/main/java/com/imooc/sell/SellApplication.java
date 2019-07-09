@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SellApplication {
 
     public static void main(String[] args) {
-        System.out.print("=========");
+        System.out.print("=========25");
         SpringApplication.run(SellApplication.class, args);
     }
 
